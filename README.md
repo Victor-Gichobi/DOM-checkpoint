@@ -47,6 +47,11 @@ A function recalculates the total cost by multiplying each product's unit price 
 <img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f53dc614-83e0-4d22-8906-603b68583434" />
 
 
+
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/a5ec0ab4-4ba3-4797-a5a2-d5f4a6ca28d6" />
+
+
+
 ## Learning Objectives
 
 #### This project demonstrates how to:
