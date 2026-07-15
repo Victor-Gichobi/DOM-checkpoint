@@ -42,6 +42,11 @@ The heart icon toggles a CSS class that changes its color to indicate whether th
 
 A function recalculates the total cost by multiplying each product's unit price by its quantity and summing all products.
 
+## Screenshots
+
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f53dc614-83e0-4d22-8906-603b68583434" />
+
+
 ## Learning Objectives
 
 #### This project demonstrates how to:
@@ -62,4 +67,4 @@ Connect the cart to a backend database.
 ## Author
 Victor Gichobi
 
-Created this JavaScript DOM Manipulation practice project.
+
